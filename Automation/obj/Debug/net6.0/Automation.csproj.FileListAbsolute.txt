@@ -1,0 +1,15 @@
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/bin/Debug/net6.0/Automation
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/bin/Debug/net6.0/Automation.deps.json
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/bin/Debug/net6.0/Automation.runtimeconfig.json
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/bin/Debug/net6.0/Automation.dll
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/bin/Debug/net6.0/Automation.pdb
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.csproj.AssemblyReference.cache
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.AssemblyInfoInputs.cache
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.AssemblyInfo.cs
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.dll
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/refint/Automation.dll
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.pdb
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/Automation.genruntimeconfig.cache
+/Users/admin/Desktop/C# Course Homework/Automation/Automation/obj/Debug/net6.0/ref/Automation.dll
